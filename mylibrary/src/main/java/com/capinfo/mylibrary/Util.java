@@ -7,7 +7,7 @@ package com.capinfo.mylibrary;
 public class Util {
 
     public static String getHello(){
-        return "hello world!";
+        return "hello world 2018!";
     }
 
 }
